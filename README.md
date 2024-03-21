@@ -1,7 +1,9 @@
-<h1 align="center">Hi, mate! I'm Fabricio, pleased to meet you.</h1>
+<h1 align="center">Hi, mate! Come on over and stay awhile.</h1>
 
+<h2>A little about me</h2>
 <p align="justify">Currently enrolled in an intensive 1500-hour bootcamp at Trybe, I've achieved 100% tasks completion in Fundamentals, Front-End, and Back-End modules, becoming a Full-stack Web Developer. Now, in the final module, I'm diving into Python, algorithms, and data structures while actively seeking my first opportunity in the tech industry.</p>
-<br/>
+<hr>
+<br>
 <h2>Languages, tools and technologies</h2>
 <h4>Front-end:</h4>
 
@@ -43,3 +45,18 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciofalcao&layout=compact&theme=dark&count_private=true&text_color=ffffff)
 </div>
+
+<hr>
+<br>
+<h2>Get in Touch<h2/>
+<div style="display: flex;">
+    <a href="mailto:fabriciohfd@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/fabfalcao/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
+
+
+
