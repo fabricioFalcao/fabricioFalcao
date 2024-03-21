@@ -1,10 +1,10 @@
-<h1 align="center">Hi, mate! Come on over and stay awhile.</h1>
+<h1 align="center">Hi, mate! Come on over and stay awhile!</h1>
 
-<h2>A little about me</h2>
+<h2>A Little About Me</h2>
 <p align="justify">Currently enrolled in an intensive 1500-hour bootcamp at Trybe, I've achieved 100% tasks completion in Fundamentals, Front-End, and Back-End modules, becoming a Full-stack Web Developer. Now, in the final module, I'm diving into Python, algorithms, and data structures while actively seeking my first opportunity in the tech industry.</p>
 <hr>
 <br>
-<h2>Languages, tools and technologies</h2>
+<h2>Languages, Tools and Technologies</h2>
 <h4>Front-end:</h4>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
