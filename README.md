@@ -1,7 +1,7 @@
 <h1 align="center">Hi, mate! Come on over and stay awhile!</h1>
 
 <h2>A Little About Me</h2>
-<p align="justify">Currently enrolled in an intensive 1500-hour bootcamp at Trybe, I've achieved 100% tasks completion in Fundamentals, Front-End, and Back-End modules, becoming a Full-stack Web Developer. Now, in the final module, I'm diving into Python, algorithms, and data structures while actively seeking my first opportunity in the tech industry.</p>
+<p align="justify">Recently graduated in an intensive 1500-hour bootcamp at Trybe, I've achieved 100% tasks completion in Fundamentals, Front-End, Back-End and Python modules, becoming a Full-stack Web Developer. Now, I'm seeking my first opportunity in the tech industry.</p>
 <hr>
 <br>
 <h2>Languages, Tools and Technologies</h2>
